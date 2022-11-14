@@ -1,0 +1,11 @@
+#footer-links a{
+    text-decoration: none;
+}
+
+#footer-links a:hover{
+    color: blue !important;
+}
+
+.nav-item a:hover{
+    color: blue !important;
+}
